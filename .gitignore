@@ -1,0 +1,10 @@
+# archives and backups
+*.tar.gz
+archive/
+# OS files
+.DS_Store
+# editor files
+*.swp
+*.bak
+# compiled files
+*.o
